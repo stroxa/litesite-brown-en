@@ -1,0 +1,22 @@
+{
+  "id": "i6",
+  "name": "Sparkling Fruit Drink 330 ml",
+  "url": "gazoz-330ml-kutu",
+  "images": ["gazoz-330ml-kutu.webp"],
+  "price": 30,
+  "weight": { "value": 330, "unit": "ml" },
+  "category": { "name": "Beverages", "url": "icecekler" },
+  "shortDesc": "Fruit-flavoured sparkling drink in a 330 ml can.",
+  "metaDesc": "330 ml aluminium can of fruit-flavoured sparkling drink. Best served cold.",
+  "keywords": "sparkling drink, gazoz, 330 ml, fruit flavour, can",
+  "longDesc": [
+    "A carbonated, fruit-flavoured beverage.",
+    "Available in a 330 ml aluminium can.",
+    "Best served cold."
+  ],
+  "otherDesc": [
+    { "name": "Packaging", "value": "Aluminium can", "type": "spec" },
+    { "name": "Storage", "value": "Store in a cool place away from direct sunlight.", "type": "info" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "5", "bestRating": "5", "worstRating": "1" }
+}

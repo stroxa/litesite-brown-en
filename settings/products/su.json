@@ -1,0 +1,22 @@
+{
+  "id": "i1",
+  "name": "Water 500 ml",
+  "url": "su",
+  "images": ["su.webp"],
+  "price": 10,
+  "weight": { "value": 500, "unit": "ml" },
+  "category": { "name": "Beverages", "url": "icecekler" },
+  "shortDesc": "Drinking water in a 500 ml plastic bottle.",
+  "metaDesc": "500 ml plastic bottle of drinking water.",
+  "keywords": "water, drinking water, 500 ml water, bottle water",
+  "longDesc": [
+    "Packaged as natural spring or drinking water.",
+    "Available in a 500 ml plastic bottle.",
+    "Best served chilled."
+  ],
+  "otherDesc": [
+    { "name": "Packaging", "value": "Plastic bottle", "type": "spec" },
+    { "name": "Storage", "value": "Store in a clean, cool and odour-free environment.", "type": "info" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "9", "bestRating": "5", "worstRating": "1" }
+}

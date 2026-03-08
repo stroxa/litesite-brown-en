@@ -1,0 +1,23 @@
+{
+  "id": "i4",
+  "name": "Cola 330 ml",
+  "url": "kola-330ml-kutu",
+  "images": ["kola-330ml-kutu.webp"],
+  "price": 35,
+  "weight": { "value": 330, "unit": "ml" },
+  "category": { "name": "Beverages", "url": "icecekler" },
+  "shortDesc": "Carbonated cola in a 330 ml can.",
+  "metaDesc": "330 ml can of carbonated cola. Best served cold.",
+  "keywords": "cola, 330 ml cola, carbonated drink, can drink",
+  "longDesc": [
+    "A carbonated drink containing caffeine.",
+    "Available in a 330 ml aluminium can.",
+    "Best served cold.",
+    "A great accompaniment to your meal."
+  ],
+  "otherDesc": [
+    { "name": "Storage", "value": "Store in a cool place away from direct sunlight.", "type": "info" },
+    { "name": "Allergen / Ingredients", "value": "Contains caffeine.", "type": "spec" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "7", "bestRating": "5", "worstRating": "1" }
+}

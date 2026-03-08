@@ -1,0 +1,32 @@
+{
+  "name": "Çorbacı",
+  "legalName": "Çorbacı Food and Catering Services",
+  "address": [
+    "Zekeriyaköy Mah. Orman Cad. No 12",
+    "Sarıyer Istanbul"
+  ],
+  "map": "#",
+  "phone": "+90 212 000 00 00",
+  "email": "siparis@corbaci.com",
+  "instagram": "#",
+  "facebook": "#",
+  "linkedin": "#",
+  "whatsapp": "+90 532 000 00 00",
+  "slogan": "Traditional flavours, centuries of expertise.",
+  "description": "Çorbacı delivers freshly prepared traditional trotter soup and beverages right to your door.",
+
+  "currency": "TRY",
+  "currencySymbol": "₺",
+  "priceValidUntilDays": 30,
+
+  "brand": "Çorbacı",
+
+  "manufacturer": {
+    "name": "Çorbacı Food and Catering Services",
+    "identifier": "TR34-0002",
+    "phone": "+902120000000",
+    "address": "Atatürk Caddesi No: 1",
+    "city": "Istanbul",
+    "country": "TR"
+  }
+}

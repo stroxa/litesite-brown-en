@@ -1,0 +1,7 @@
+{
+  "title": "Çorbacı | Traditional Flavours",
+  "description": "Çorbacı delivers freshly prepared traditional trotter soup, head and trotter soup, and beverages right to your door.",
+  "keywords": "corbaci, trotter soup, head and trotter, fresh soup, frozen trotter soup, traditional soup",
+  "priority": 1.0,
+  "partials": ["hero:headerHero", "product-cards"]
+}

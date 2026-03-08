@@ -1,0 +1,23 @@
+{
+  "id": "i5",
+  "name": "Cola 1 L",
+  "url": "kola-1l-sise",
+  "images": ["kola-1l-sise.webp"],
+  "price": 50,
+  "weight": { "value": 1000, "unit": "ml" },
+  "category": { "name": "Beverages", "url": "icecekler" },
+  "shortDesc": "Carbonated cola in a 1-litre bottle.",
+  "metaDesc": "1-litre plastic bottle of carbonated cola. Contains caffeine. Best served cold.",
+  "keywords": "cola, 1 litre cola, carbonated drink, bottle cola",
+  "longDesc": [
+    "A carbonated drink containing caffeine.",
+    "Available in a 1-litre plastic bottle.",
+    "Best served cold."
+  ],
+  "otherDesc": [
+    { "name": "Packaging", "value": "Plastic bottle", "type": "spec" },
+    { "name": "Storage", "value": "Store in a cool place away from direct sunlight.", "type": "info" },
+    { "name": "Ingredients", "value": "Contains caffeine.", "type": "spec" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "3", "bestRating": "5", "worstRating": "1" }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "c2",
+  "name": "Fresh Head & Trotter Soup",
+  "url": "taze-kelle-paca-corbasi-750ml",
+  "images": ["taze-kelle-paca-corbasi.webp"],
+  "price": 330,
+  "weight": { "value": 750, "unit": "ml" },
+  "category": { "name": "Fresh Soups", "url": "taze-corbalar" },
+  "shortDesc": "Slow-simmered daily with fresh beef head meat and marrow bone broth — a deeply memorable traditional soup",
+  "metaDesc": "Çorbacı fresh head and trotter soup. Prepared daily with beef head and marrow bone broth, additive-free traditional flavour.",
+  "keywords": "head and trotter soup, kelle paca, traditional head soup, corbaci soup",
+  "longDesc": [
+    "Beef head is carefully cleaned and trimmed, then simmered for hours with marrow bone broth over a gentle flame",
+    "Onion, garlic, bay leaf and black pepper give the soup its traditional aroma and depth",
+    "Made only from meat, bone broth and natural spices — no additives or preservatives",
+    "Serve hot with garlic and vinegar to enhance the flavour even further",
+    "High in protein and collagen — a nourishing, satisfying and strengthening meal"
+  ],
+  "otherDesc": [
+    { "name": "Net Volume", "value": "750 ml", "type": "spec" },
+    { "name": "Servings", "value": "2 persons", "type": "spec" },
+    { "name": "Production", "value": "Freshly prepared daily", "type": "info" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "5", "bestRating": "5", "worstRating": "1" }
+}

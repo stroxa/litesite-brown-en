@@ -1,0 +1,8 @@
+{
+  "title": "Sitemap | Çorbacı",
+  "description": "Sitemap listing all pages and menu items on the Çorbacı website.",
+  "keywords": "corbaci sitemap",
+  "showOnFooter": true,
+  "isSiteMap": true,
+  "partials": ["article-header", "sitemap-list", "article-footer"]
+}

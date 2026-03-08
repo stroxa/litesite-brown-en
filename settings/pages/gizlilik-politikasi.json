@@ -1,0 +1,40 @@
+{
+  "title": "Privacy Policy | Çorbacı",
+  "description": "Çorbacı website does not collect or store any personal data. Learn about our privacy policy.",
+  "keywords": "privacy policy, personal data protection, corbaci privacy",
+  "showOnFooter": true,
+  "partials": ["article-header", "parts", "article-footer"],
+  "parts": [
+    {
+      "title": "Privacy Policy",
+      "content": [
+        "This website does not collect any personal data.",
+        "No cookies, tracking systems or analytics tools are used on this site. No data about visitors is collected or stored."
+      ]
+    },
+    {
+      "title": "No Data Stored",
+      "content": [
+        "No user data is held on our servers or in any other system.",
+        "The ordering process is carried out exclusively via WhatsApp. Information shared through WhatsApp is used solely for fulfilling the order and is not shared with third parties."
+      ]
+    },
+    {
+      "title": "No Use of Personal Data",
+      "content": [
+        "No personal data is used for advertising, analytics or marketing purposes."
+      ]
+    },
+    {
+      "title": "Contact",
+      "content": [
+        "If you have any questions about our privacy policy, please get in touch:"
+      ],
+      "list": [
+        "E-mail: siparis@corbaci.com",
+        "Phone: +90 212 000 00 00",
+        "Address: Atatürk Caddesi No: 1 Merkez / Istanbul"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "d3",
+  "name": "Frozen Tripe Soup",
+  "url": "dondurulmus-iskembe-corbasi-750ml",
+  "images": ["dondurulmus-iskembe-corbasi.webp"],
+  "price": 300,
+  "weight": { "value": 750, "unit": "ml" },
+  "category": { "name": "Frozen Soups", "url": "dondurulmus-corbalar" },
+  "shortDesc": "Beef tripe simmered for hours with egg yolk and garlic cream sauce, then flash-frozen — traditional tripe soup ready in minutes",
+  "metaDesc": "Çorbacı frozen tripe soup. Long-simmered, flash-frozen, additive-free and preservative-free traditional tripe.",
+  "keywords": "frozen tripe soup, frozen iskembe, flash-frozen soup, corbaci frozen tripe",
+  "longDesc": [
+    "Beef tripe is carefully cleaned and simmered with garlic, onion and salt, then finished with an egg yolk and lemon cream sauce",
+    "Flash-freezing preserves both flavour and nutritional value — no additives or preservatives",
+    "Simply heat from frozen; top with sizzling butter, red pepper flakes and garlic for the full traditional taste",
+    "High in protein — a satisfying, nourishing and convenient meal ready at any time"
+  ],
+  "otherDesc": [
+    { "name": "Storage", "value": "Can be kept in the freezer for 6 months", "type": "info" },
+    { "name": "Shelf Life", "value": "Once thawed, consume at first heating", "type": "info" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "7", "bestRating": "5", "worstRating": "1" }
+}

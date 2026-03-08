@@ -1,0 +1,25 @@
+{
+  "id": "c1",
+  "name": "Fresh Trotter Soup",
+  "url": "taze-ayak-paca-corbasi-750ml",
+  "images": ["taze-ayak-paca-corbasi.webp"],
+  "price": 310,
+  "weight": { "value": 750, "unit": "ml" },
+  "category": { "name": "Fresh Soups", "url": "taze-corbalar" },
+  "shortDesc": "Traditional trotter soup slow-cooked for hours with fresh beef trotters, onion, garlic and bay leaf — rich in collagen",
+  "metaDesc": "Çorbacı fresh trotter soup. Prepared daily with natural ingredients, slow-cooked and rich in collagen.",
+  "keywords": "fresh trotter soup, paça soup, traditional trotter, corbaci soup",
+  "longDesc": [
+    "Fresh beef trotters are slow-cooked for over 12 hours with garlic, onion and bay leaf over a low flame",
+    "The deep bone broth base gives the soup a rich, velvety texture and a satisfying aroma",
+    "Only meat, bone broth and natural spices are used — no additives or preservatives",
+    "Serve hot with crushed garlic and vinegar to bring out the full traditional flavour",
+    "Rich in collagen and protein, it makes a nourishing meal that also supports the immune system"
+  ],
+  "otherDesc": [
+    { "name": "Net Volume", "value": "750 ml", "type": "spec" },
+    { "name": "Servings", "value": "2 persons", "type": "spec" },
+    { "name": "Production", "value": "Freshly prepared daily", "type": "info" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "8", "bestRating": "5", "worstRating": "1" }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "i7",
+  "name": "Sparkling Fruit Drink 1 L",
+  "url": "gazoz-1l-sise",
+  "images": ["gazoz-1l-sise.webp"],
+  "price": 45,
+  "weight": { "value": 1000, "unit": "ml" },
+  "category": { "name": "Beverages", "url": "icecekler" },
+  "shortDesc": "Fruit-flavoured sparkling drink in a 1-litre bottle.",
+  "metaDesc": "1-litre plastic bottle of fruit-flavoured sparkling drink. Best served cold.",
+  "keywords": "sparkling drink, gazoz, 1 litre, fruit flavour, bottle",
+  "longDesc": [
+    "A carbonated, fruit-flavoured beverage.",
+    "Available in a 1-litre plastic bottle.",
+    "Best served cold."
+  ],
+  "otherDesc": [
+    { "name": "Packaging", "value": "Plastic bottle", "type": "spec" },
+    { "name": "Storage", "value": "Store in a cool place away from direct sunlight.", "type": "info" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "2", "bestRating": "5", "worstRating": "1" }
+}

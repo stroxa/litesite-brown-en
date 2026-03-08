@@ -1,0 +1,22 @@
+{
+  "id": "i2",
+  "name": "Turnip Juice 330 ml",
+  "url": "salgam-330ml-sise",
+  "images": ["salgam-330ml-sise.webp"],
+  "price": 35,
+  "weight": { "value": 330, "unit": "ml" },
+  "category": { "name": "Beverages", "url": "icecekler" },
+  "shortDesc": "Traditional fermented turnip juice in a 330 ml bottle.",
+  "metaDesc": "330 ml fermented turnip juice. A tangy, spiced traditional beverage to accompany meals.",
+  "keywords": "turnip juice, salgam, 330ml turnip juice, beverage",
+  "longDesc": [
+    "Produced using traditional fermentation methods.",
+    "A tangy, spiced traditional beverage.",
+    "Available in a 330 ml PET bottle."
+  ],
+  "otherDesc": [
+    { "name": "Storage", "value": "Store in a cool place away from direct sunlight.", "type": "info" },
+    { "name": "Shelf Life", "value": "Once opened, keep refrigerated and consume within 3 days.", "type": "info" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "5", "bestRating": "5", "worstRating": "1" }
+}

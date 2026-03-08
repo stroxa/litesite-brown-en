@@ -1,0 +1,25 @@
+{
+  "id": "c3",
+  "name": "Fresh Tripe Soup",
+  "url": "taze-iskembe-corbasi-750ml",
+  "images": ["taze-iskembe-corbasi.webp"],
+  "price": 290,
+  "weight": { "value": 750, "unit": "ml" },
+  "category": { "name": "Fresh Soups", "url": "taze-corbalar" },
+  "shortDesc": "Fresh beef tripe simmered daily with an egg yolk and garlic cream sauce — a classic traditional tripe soup",
+  "metaDesc": "Çorbacı fresh tripe soup. Prepared daily with natural ingredients in traditional style.",
+  "keywords": "fresh tripe soup, iskembe, traditional tripe, corbaci soup",
+  "longDesc": [
+    "Fresh beef tripe is carefully cleaned and simmered for a long time with garlic, onion and salt",
+    "An egg yolk and lemon sauce gives the soup its creamy, velvety texture",
+    "Contains no additives — made from fresh tripe, natural spices and daily-prepared ingredients",
+    "Serve hot topped with sizzling butter, red pepper flakes, garlic and vinegar for the full depth of flavour",
+    "Rich in protein, satisfying and nourishing — the timeless traditional treat for mornings and cold days"
+  ],
+  "otherDesc": [
+    { "name": "Net Volume", "value": "750 ml", "type": "spec" },
+    { "name": "Servings", "value": "2 persons", "type": "spec" },
+    { "name": "Production", "value": "Freshly prepared daily", "type": "info" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "6", "bestRating": "5", "worstRating": "1" }
+}

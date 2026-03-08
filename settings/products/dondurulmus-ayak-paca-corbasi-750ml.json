@@ -1,0 +1,24 @@
+{
+  "id": "d1",
+  "name": "Frozen Trotter Soup",
+  "url": "dondurulmus-ayak-paca-corbasi-750ml",
+  "images": ["dondurulmus-ayak-paca-corbasi.webp"],
+  "price": 320,
+  "weight": { "value": 750, "unit": "ml" },
+  "category": { "name": "Frozen Soups", "url": "dondurulmus-corbalar" },
+  "shortDesc": "Beef trotters slow-cooked for 12 hours with garlic, onion and bay leaf, then flash-frozen — ready for your table any time",
+  "metaDesc": "Çorbacı frozen trotter soup. Cooked for 12 hours, flash-frozen, additive-free and preservative-free traditional trotter.",
+  "keywords": "frozen trotter soup, frozen paça, flash-frozen soup, corbaci frozen",
+  "longDesc": [
+    "Fresh beef trotters, garlic, onion and bay leaf are slow-cooked for over 12 hours to build a rich, collagen-packed bone broth",
+    "Flash-freezing locks in the freshness, aroma and nutritional value of the day it was made",
+    "Only meat, bone broth and natural spices are used — no additives or preservatives",
+    "Simply heat from frozen — the deep, traditional flavour of trotter soup on your table in minutes",
+    "Rich in collagen, it supports the immune system and delivers a satisfying, nourishing meal"
+  ],
+  "otherDesc": [
+    { "name": "Storage", "value": "Can be kept in the freezer for 6 months", "type": "info" },
+    { "name": "Shelf Life", "value": "Once thawed, consume at first heating", "type": "info" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "9", "bestRating": "5", "worstRating": "1" }
+}

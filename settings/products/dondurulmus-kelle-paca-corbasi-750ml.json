@@ -1,0 +1,23 @@
+{
+  "id": "d2",
+  "name": "Frozen Head & Trotter Soup",
+  "url": "dondurulmus-kelle-paca-corbasi-750ml",
+  "images": ["dondurulmus-kelle-paca-corbasi.webp"],
+  "price": 345,
+  "weight": { "value": 750, "unit": "ml" },
+  "category": { "name": "Frozen Soups", "url": "dondurulmus-corbalar" },
+  "shortDesc": "Carefully trimmed beef head meat and marrow bone broth slow-simmered for hours, then flash-frozen — traditional flavour preserved",
+  "metaDesc": "Çorbacı frozen head and trotter soup. Carefully trimmed head meat and long-simmered bone broth, flash-frozen.",
+  "keywords": "frozen head and trotter soup, kelle paca, flash-frozen head soup, corbaci frozen",
+  "longDesc": [
+    "Beef head is carefully cleaned and trimmed, then simmered for hours with marrow bone broth",
+    "Onion, garlic, bay leaf and black pepper deliver the traditional aroma and depth",
+    "Flash-freezing preserves both flavour and nutritional value just as on the day it was made — no additives or preservatives",
+    "Simply heat from frozen — traditional head and trotter soup on your table in minutes with garlic and vinegar"
+  ],
+  "otherDesc": [
+    { "name": "Storage", "value": "Can be kept in the freezer for 6 months", "type": "info" },
+    { "name": "Shelf Life", "value": "Once thawed, consume at first heating", "type": "info" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "4", "bestRating": "5", "worstRating": "1" }
+}

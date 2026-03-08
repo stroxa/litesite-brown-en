@@ -1,0 +1,20 @@
+{
+  "title": "404 - Page Not Found | Çorbacı",
+  "description": "The page you are looking for could not be found. Please return to our homepage.",
+  "keywords": "page not found, 404",
+  "partials": ["article-header", "parts", "article-footer"],
+  "parts": [
+    {
+      "title": "Page Not Found",
+      "content": [
+        "The page you are looking for does not exist or may have been moved.",
+        "Perhaps you arrived hungry and were trying to find the menu?"
+      ],
+      "list": [
+        "Return to homepage",
+        "Browse our menu",
+        "Contact us"
+      ]
+    }
+  ]
+}

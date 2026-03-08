@@ -1,0 +1,72 @@
+{
+  "domain": "https://corbaci.com/en",
+  "siteRoot": "/en/",
+  "cachePrefix": "corbaci-en",
+  "lang": "en",
+  "langSwitch": [
+    { "label": "TR", "url": "https://corbaci.com",    "lang": "tr" },
+    { "label": "EN", "url": "https://corbaci.com/en", "lang": "en" },
+    { "label": "AR", "url": "https://corbaci.com/ar", "lang": "ar" }
+  ],
+  "rootPages": ["index", "404"],
+  "pagesDir": "pages",
+  "productsDir": "products",
+  "isCategoryCollapsable": true,
+  "productSections": [
+    { "key": "taze-corbalar",        "label": "Fresh Soups"  },
+    { "key": "dondurulmus-corbalar", "label": "Frozen Soups" },
+    { "key": "icecekler",            "label": "Beverages"    }
+  ],
+
+  "productsPage": "/index.html",
+  "offlineWarning": "No internet connection. Please check your network.",
+  "taxIncluded": "VAT Included",
+  "basketWarning": "After adding products to your cart,<br/>click the 'Order via WhatsApp' button<br/>to send us your order and delivery address<br/>and complete your purchase easily.",
+  "whatsAppWarning": "If you don't use WhatsApp,<br/>you can reach us at siparis@corbaci.com<br/>for orders and inquiries.",
+  "shippingWarning": "Delivery is free for orders in the nearby area.",
+
+  "headerHero": {
+    "img": "hero-header.webp",
+    "text": [
+      "Age-old recipes unforgettable flavours.",
+      ""
+    ]
+  },
+
+  "assets": {
+    "css": ["css/base.css", "css/layout.css",
+            "css/page.css", "css/product.css", "css/basket.css"],
+    "js": ["js/lazy.js", "js/off.js", "js/menu.js", "js/helper.js", "js/basket.js"],
+    "cssOutput": "site.css",
+    "jsOutput": "site.js"
+  },
+
+  "labels": {
+    "pages": "Pages",
+    "products": "Menu",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "E-mail",
+    "showOnMap": "Show on Map",
+    "productDescTab": "Description",
+    "productSpecsTab": "Specs",
+    "addToBasket": "Add to Cart",
+    "emptyBasket": "Your cart is empty",
+    "productsLinkText": "Our Menu",
+    "emptyBasketDesc": "to browse and add items to your cart.",
+    "basket": "Cart",
+    "myBasket": "My Cart",
+    "itemSuffix": "item",
+    "for": "for",
+    "openBasket": "Open Cart",
+    "closeBasket": "Close Cart",
+    "subtotal": "Subtotal",
+    "shipping": "Delivery",
+    "freeShipping": "Free",
+    "total": "Total",
+    "delete": "Remove",
+    "unit": "Qty",
+    "whatsAppOrder": "Order via WhatsApp",
+    "whatsAppGreeting": "Hello, I would like to place an order:"
+  }
+}

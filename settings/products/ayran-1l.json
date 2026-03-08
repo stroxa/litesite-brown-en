@@ -1,0 +1,22 @@
+{
+  "id": "i3",
+  "name": "Ayran 1 L",
+  "url": "ayran-1l",
+  "images": ["ayran-1l.webp"],
+  "price": 40,
+  "weight": { "value": 1000, "unit": "ml" },
+  "category": { "name": "Beverages", "url": "icecekler" },
+  "shortDesc": "1-litre cold yoghurt drink.",
+  "metaDesc": "Traditional ayran served in a 1-litre pack. A refreshing blend of yoghurt, water and salt.",
+  "keywords": "ayran, yoghurt drink, 1 litre ayran, beverage",
+  "longDesc": [
+    "Made from a blend of yoghurt, water and salt.",
+    "Available in a 1-litre pack.",
+    "Best served cold."
+  ],
+  "otherDesc": [
+    { "name": "Storage", "value": "Keep refrigerated.", "type": "info" },
+    { "name": "Shelf Life", "value": "Once opened, keep refrigerated and consume within 3 days.", "type": "info" }
+  ],
+  "aggregateRating": { "ratingValue": "5", "reviewCount": "6", "bestRating": "5", "worstRating": "1" }
+}

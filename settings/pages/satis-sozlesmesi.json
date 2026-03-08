@@ -1,0 +1,126 @@
+{
+  "title": "Distance Sales Agreement | Çorbacı",
+  "description": "Çorbacı distance sales agreement. The legal document explaining your rights and our responsibilities during your purchase.",
+  "keywords": "distance sales agreement, corbaci legal, consumer rights",
+  "showOnFooter": true,
+  "partials": ["article-header", "parts", "article-footer"],
+  "parts": [
+    {
+      "title": "1. Parties",
+      "content": [
+        "This Distance Sales Agreement (\"Agreement\") is established between the SELLER below and the BUYER placing an order through corbaci.com, in accordance with applicable consumer protection legislation."
+      ],
+      "list": [
+        "Seller Name: Çorbacı Food and Catering Services",
+        "Address: Atatürk Caddesi No: 1, Merkez / Istanbul",
+        "Phone: +90 212 000 00 00",
+        "E-mail: siparis@corbaci.com"
+      ]
+    },
+    {
+      "title": "",
+      "content": [
+        "Buyer: the consumer who places an order on corbaci.com by using the 'Order via WhatsApp' button."
+      ]
+    },
+    {
+      "title": "2. Definitions",
+      "list": [
+        "PRODUCT: food products sold through corbaci.com",
+        "SELLER: the company identified above",
+        "BUYER: the natural or legal person purchasing the product"
+      ]
+    },
+    {
+      "title": "3. Subject of the Agreement",
+      "content": [
+        "This Agreement governs the terms of sale, delivery, payment and cancellation for orders placed by the BUYER via WhatsApp through the corbaci.com website."
+      ]
+    },
+    {
+      "title": "4. Product Information",
+      "content": [
+        "The type, quantity and price of the ordered product(s) are clearly communicated to the BUYER on the website and/or via WhatsApp at the time of ordering.",
+        "All prices include VAT and have been viewed and confirmed by the BUYER before order confirmation."
+      ]
+    },
+    {
+      "title": "5. Order and Formation of the Agreement",
+      "content": [
+        "The BUYER is directed to the SELLER's WhatsApp line by pressing the 'Order via WhatsApp' button on corbaci.com.",
+        "The agreement is deemed formed when the SELLER confirms the order by message."
+      ]
+    },
+    {
+      "title": "6. Price and Payment",
+      "content": [
+        "Payment is made by one of the following methods:"
+      ],
+      "list": [
+        "Cash on delivery: by cash or card at the time of delivery",
+        "Bank transfer/EFT: to the IBAN provided by the SELLER after order confirmation"
+      ]
+    },
+    {
+      "title": "7. Delivery",
+      "content": [
+        "Orders are delivered to the address provided by the BUYER within a maximum of 30 days.",
+        "Delivery is made by our own courier or a contracted shipping company.",
+        "Any shipping/delivery fee, if applicable, is communicated to the BUYER at the time of ordering."
+      ]
+    },
+    {
+      "title": "8. Right of Withdrawal",
+      "content": [
+        "The BUYER may exercise the right of withdrawal within 14 days of delivery.",
+        "The withdrawal notice must be sent in writing (by e-mail or WhatsApp) to the SELLER.",
+        "The conditions below apply to food products."
+      ]
+    },
+    {
+      "title": "9. Products Excluded from the Right of Withdrawal",
+      "content": [
+        "The right of withdrawal cannot be exercised for the following products:"
+      ],
+      "list": [
+        "Freshly prepared, perishable food products prepared daily (fresh trotter soup etc.)",
+        "Products whose packaging has been opened and which are unsuitable for return on hygiene or health grounds",
+        "Frozen products whose cold chain has been broken"
+      ]
+    },
+    {
+      "title": "10. Returns for Frozen Products",
+      "content": [
+        "For frozen products, a return may be requested within 14 days of delivery provided that the original packaging is unopened and the cold chain has been maintained.",
+        "Return shipping costs are borne by the BUYER."
+      ]
+    },
+    {
+      "title": "11. General Provisions",
+      "list": [
+        "The BUYER has been informed in advance about the product details, price and delivery terms before placing an order.",
+        "If payment is not made or the transfer is not confirmed, the SELLER's delivery obligation does not commence.",
+        "The SELLER may cancel an order in the event of stock or supply shortage; in such cases the BUYER will be notified."
+      ]
+    },
+    {
+      "title": "12. Protection of Personal Data",
+      "content": [
+        "Personal data such as name, address and phone number shared during the ordering process are used solely for delivery and communication purposes.",
+        "For further information, please refer to our Privacy Policy."
+      ]
+    },
+    {
+      "title": "13. Disputes and Competent Authorities",
+      "content": [
+        "In disputes arising from this Agreement, the Consumer Arbitration Committees or Consumer Courts at the BUYER's place of residence have jurisdiction."
+      ]
+    },
+    {
+      "title": "14. Entry into Force",
+      "content": [
+        "By placing an order on corbaci.com, the BUYER declares that they have read, understood and accepted all terms of this Agreement."
+      ]
+    }
+  ]
+}
