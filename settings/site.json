@@ -67,6 +67,8 @@
     "delete": "Remove",
     "unit": "Qty",
     "whatsAppOrder": "Order via WhatsApp",
-    "whatsAppGreeting": "Hello, I would like to place an order:"
+    "whatsAppGreeting": "Hello, I would like to place an order:",
+    "telegramOrder": "Send Your Order via Telegram",
+    "telegramGreeting": "Hello, I would like to place an order:"
   }
 }
